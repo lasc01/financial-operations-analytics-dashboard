@@ -60,7 +60,7 @@ Customer segmentation, retention, and lifetime value insights
 
 ## Sample Dashboard
 
-![Executive Overview](images/dashboard_overview.png)
+![Executive Overview](images/Screenshot 2026-04-27 215510.png)
 
 ## Key Insights
 
