@@ -80,7 +80,7 @@ python scripts/generate_data.py
 ```bash
 python scripts/clean_data.py
 
-3. Load to bigquery:
+3. Load to BigQuery:
 ```bash
-python scripts/clean_data.py
+python scripts/load_to_bigquery.py
 
